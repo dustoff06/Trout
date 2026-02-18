@@ -138,7 +138,8 @@ The stacked ensemble exhibited stochastic dominance over all individual models a
 
 ```
 ├── README.md
-├── fish_model_data.csv     # USGS source data (fish + environmental)
+├── fish_model_data.csv                   # Derived from USGS data
+├── paper.pdf                             # Original Paper (Pre-Publication) 
 └── final02182026.ipynb                   # Main analysis notebook
 ```
 
